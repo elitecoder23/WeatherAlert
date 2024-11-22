@@ -21,8 +21,8 @@ public class App {
     private static final String WEATHERSTACK_API_KEY = "4ef765d0d9f80ae07038c7507d3f12f5";
     public static final String ACCOUNT_SID = "ACbf0451cda0881a0d159998336e041129";
     public static final String AUTH_TOKEN = "ef2c280eddc45c94a5fc4b19136f817d";
-    private static final String TO_PHONE_NUMBER = "+18777804236";
-    private static final String FROM_PHONE_NUMBER = "+18558835408";
+    private static final String TO_PHONE_NUMBER = "+19136872310";  // Your phone number with country code
+    private static final String FROM_PHONE_NUMBER = "+18558835408";  // Your Twilio number
 
     // Location
     private static final String LOCATION = "Ames,Iowa";
